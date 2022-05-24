@@ -1,0 +1,10 @@
+A0 -> A0 -> corrente
+D0 -> 16 -> rele1
+D1 -> 5 -> rele2
+D2 -> 4 -> rele3
+D3 -> 0 -> rele4
+D4 -> 2 -> Termometro 
+D5 -> 14 -> ldr1
+D6 -> 12 -> ld2
+D7 -> 13 -> ld3
+D8 -> 15 -> ldr4
